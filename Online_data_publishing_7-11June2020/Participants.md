@@ -3,7 +3,7 @@ List of Participants
 | **Participants**    | **Email** | **Organization** | **Fellowship host site** |
 |:----------------|:-------------:|:-----:|:--------------------:|
 |Dorich, Chris | chris.dorich@colostate.edu | NREL CSU|
-|Field, Tori |smcnulty@esf.edu | SUNY FES|
+|Field, Victoria |vgfield@esf.edu | SUNY ESF|
 |Gill, Sadie	| sgill@flowwest.com | CVPIA |
 |Lewis-Smith, Bryce |	blewissmith@oxy.edu	| OTS | OTS |
 |Picon, Monique | mopicon@gmail.com | LUQ LTER|
